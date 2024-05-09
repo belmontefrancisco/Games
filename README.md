@@ -1,1 +1,1 @@
-This folder contains diverse code for game prototypes and ideas.
+This folder contains diverse code for games prototypes and ideas.
